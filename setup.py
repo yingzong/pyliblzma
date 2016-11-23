@@ -38,7 +38,7 @@ descr = "Python bindings for liblzma"
 long_descr = """PylibLZMA provides a python interface for the liblzma library
 to read and write data that has been compressed or can be decompressed
 by Lasse Collin's xz / lzma utils."""
-version = '0.5.3'
+version = '0.5.3+celect'
 version_define = [('VERSION', '"%s"' % version)]
 
 modules = ['liblzma']
